@@ -61,12 +61,10 @@ target/
 # ?
 MANIFEST
 .idea
-evosoro/data_analysis/
 evosoro/examples/*_data/
 evosoro/_voxcad*/GeneratedFiles/
 evosoro/examples/qhull
 evosoro/examples/voxelyze
-evosoro/pbs/
 *.o
 *.fuse_hidden*
 *~
